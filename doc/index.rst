@@ -6,9 +6,9 @@ Luma Docs
 
    intro
    install
+   components
    api-documentation
 
 .. include:: ../CONTRIBUTING.rst
-.. include:: ../CHANGES.rst
 .. include:: ../LICENSE.rst
 
