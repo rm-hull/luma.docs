@@ -11,7 +11,7 @@ Luma.Docs
 
 .. image:: https://img.shields.io/maintenance/yes/2017.svg?maxAge=2592000
 
-**luma.docs** is the collected documentation source for all the luma components
+**luma.docs** is a ALPHA version of collected documentation sources for all the luma components
 and device drivers.
 
 Device drivers extend **luma.core** to provide the correct initialization 
@@ -31,7 +31,7 @@ License
 -------
 The MIT License (MIT)
 
-Copyright (c) 2017 Richard Hull & Contributors
+Copyright (c) 2017-2018 Richard Hull & Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
